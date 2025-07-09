@@ -1,6 +1,6 @@
 # Privacy Policy for Cover
 
-**Last Updated: January 31, 2025**
+**Last Updated: July 9, 2025**
 
 ## Introduction
 Welcome to Cover ("the Service"), developed and operated by AI Plug. This Privacy Policy explains how we collect, use, and protect your personal information when you use our Service. By using Cover, you agree to the collection and use of information as described in this policy.
