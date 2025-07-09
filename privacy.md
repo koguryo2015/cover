@@ -32,7 +32,7 @@ Our app integrates with several third-party services that may collect and proces
 - AdMob
 - Google Analytics for Firebase
 - Firebase Crashlytics
-- Facebook
+- Sentry
 
 Each of these services operates under its own privacy policy, which we encourage you to review.
 
@@ -54,7 +54,7 @@ We may update this Privacy Policy periodically. We will notify you of any change
 ## Contact Information
 For questions or concerns about this Privacy Policy or our privacy practices, please contact us at:
 
-Email: trianaglestudios@gmail.com
+Email: koguryo2015@gmail.com
 
 ## Your Rights
 You have the right to:
