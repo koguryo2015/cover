@@ -1,6 +1,6 @@
 # Privacy Policy for Cover
 
-**Last Updated: July 9, 2025**
+**Last Updated: March 13, 2026**
 
 ## Introduction
 Welcome to Cover ("the Service"), developed and operated by AI Plug. This Privacy Policy explains how we collect, use, and protect your personal information when you use our Service. By using Cover, you agree to the collection and use of information as described in this policy.
@@ -26,13 +26,21 @@ We use the collected information to:
 - Detect and prevent technical issues
 - Deliver relevant advertisements
 
+## Accessibility Service Usage
+Cover uses Android Accessibility Service only to detect the currently active application in order to apply the privacy screen overlay selected by the user.
+
+The app does not read screen content, capture text, monitor keystrokes, or collect personal data.
+
+All processing happens locally on the device.
+
 ## Third-Party Services
 Our app integrates with several third-party services that may collect and process your information:
 - Google Play Services
 - AdMob
 - Google Analytics for Firebase
 - Firebase Crashlytics
-- Sentry
+- Pangle
+- Meta
 
 Each of these services operates under its own privacy policy, which we encourage you to review.
 
@@ -54,7 +62,7 @@ We may update this Privacy Policy periodically. We will notify you of any change
 ## Contact Information
 For questions or concerns about this Privacy Policy or our privacy practices, please contact us at:
 
-Email: koguryo2015@gmail.com
+Email: trianaglestudios@gmail.com
 
 ## Your Rights
 You have the right to:
