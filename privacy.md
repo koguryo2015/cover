@@ -1,6 +1,6 @@
 # Privacy Policy for Cover
 
-**Last Updated: March 13, 2026**
+**Last Updated: March 14, 2026**
 
 ## Introduction
 Welcome to Cover ("the Service"), developed and operated by AI Plug. This Privacy Policy explains how we collect, use, and protect your personal information when you use our Service. By using Cover, you agree to the collection and use of information as described in this policy.
@@ -62,7 +62,7 @@ We may update this Privacy Policy periodically. We will notify you of any change
 ## Contact Information
 For questions or concerns about this Privacy Policy or our privacy practices, please contact us at:
 
-Email: trianaglestudios@gmail.com
+Email: koguryo2015@gmail.com
 
 ## Your Rights
 You have the right to:
